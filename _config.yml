@@ -1,0 +1,17 @@
+# Setup
+title:        NEEL-IT @ Evalita 2016
+tagline:      Named Entity rEcognition and Linking in Italian Tweets Task
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       neel-it
+  url:        neel-it.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: redcarpet
