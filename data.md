@@ -5,11 +5,13 @@ title: Data
 
 # Data
 
+## Development data
+
+Development data (tweet ids and annotation for training data) are available [here](https://drive.google.com/file/d/0Bx77nAswtpavdzM3SWdyT0o1bDg/view?usp=sharing). 
+Because some tweets may have been removed since their publication, we will release the original text of tweets to participants that will register at Evalita 2016 - NEEL-IT task.
+
 ## Guidelines
 
 Participation guidelines are available [here](https://docs.google.com/document/d/1UjDJRmmWI797mlMhg_4Fj96ybiRZfatekJzO8JQjR-8/edit?usp=sharing).
 
-## Development data
 
-Development data (tweet ids and annotation for training data) will be available here. 
-Because some tweets may have been removed since their publication, we will release the original text of tweets to participants that will register at Evalita 2016 - NEEL-IT task.
