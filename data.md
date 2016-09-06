@@ -12,6 +12,9 @@ Because some tweets may have been removed since their publication, we will relea
 
 ## Guidelines
 
-Participation guidelines are available [here](https://docs.google.com/document/d/1UjDJRmmWI797mlMhg_4Fj96ybiRZfatekJzO8JQjR-8/edit?usp=sharing).
+***New*** Participation guidelines are available [here](https://drive.google.com/open?id=1saUb2NSxml67pcrz3m_bMcibe1nST2CTedeKOBklKaI).
+We have addressed a certain amount of problematic cases related to named entities in mentions.
+
+***Old*** Participation guidelines are available [here](https://docs.google.com/document/d/1UjDJRmmWI797mlMhg_4Fj96ybiRZfatekJzO8JQjR-8/edit?usp=sharing).
 
 
